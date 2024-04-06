@@ -1,12 +1,10 @@
 {
   "files": {
-    "main.css": "./static/css/main.b940ee56.css",
-    "main.js": "./static/js/main.8877ef3a.js",
+    "main.css": "./static/css/main.a65b098a.css",
+    "main.js": "./static/js/main.ace4cb00.js",
     "static/js/787.0c3f432a.chunk.js": "./static/js/787.0c3f432a.chunk.js",
-    "static/media/l-tower.jpg": "./static/media/l-tower.605a5036a623807ceac2.jpg",
     "static/media/namsan.jpg": "./static/media/namsan.ac43e756aad960584cb3.jpg",
     "static/media/listExpenImg.png": "./static/media/listExpenImg.3ab245312975f1909095.png",
-    "static/media/kyung.jpg": "./static/media/kyung.72f71aacd03887c1fc28.jpg",
     "static/media/olympic.jpg": "./static/media/olympic.001ec2fc2c940b2359b0.jpg",
     "static/media/river.jpg": "./static/media/river.f8a780bfba234ce6998f.jpg",
     "static/media/logo.svg": "./static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
@@ -15,12 +13,12 @@
     "static/media/slick.ttf": "./static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "./static/media/slick.295183786cd8a1389865.woff",
     "index.html": "./index.html",
-    "main.b940ee56.css.map": "./static/css/main.b940ee56.css.map",
-    "main.8877ef3a.js.map": "./static/js/main.8877ef3a.js.map",
+    "main.a65b098a.css.map": "./static/css/main.a65b098a.css.map",
+    "main.ace4cb00.js.map": "./static/js/main.ace4cb00.js.map",
     "787.0c3f432a.chunk.js.map": "./static/js/787.0c3f432a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b940ee56.css",
-    "static/js/main.8877ef3a.js"
+    "static/css/main.a65b098a.css",
+    "static/js/main.ace4cb00.js"
   ]
 }
